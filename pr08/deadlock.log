@@ -1,0 +1,5 @@
+
+P1 acquire R1
+P2 acquire R2
+P1 wait R2
+P2 wait R1
