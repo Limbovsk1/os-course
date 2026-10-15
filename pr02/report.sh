@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 # report.sh — таблица «модуль → число сообщений» по логам
 set -euo pipefail
